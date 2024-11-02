@@ -53,7 +53,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheRealBarenziah/imgbb-uploader.git"
+    "url": "git+https://github.com/SHANKAR-PROJECT/imgbb-shankar.git"
   },
   "keywords": [
     "imgbb",
@@ -61,12 +61,12 @@
     "image upload",
     "picture upload"
   ],
-  "author": "TheRealBarenziah",
+  "author": "SMART SHANKAR",
   "license": "SEE LICENSE IN TARGARYEN_UNLICENSE",
   "bugs": {
-    "url": "https://github.com/TheRealBarenziah/imgbb-uploader/issues"
+    "url": "https://github.com/SHANKAR-PROJECT/imgbb-shankar/issues"
   },
-  "homepage": "https://github.com/TheRealBarenziah/imgbb-uploader#readme",
+  "homepage": "https://github.com/SHANKAR-PROJECT/imgbb-shankar#readme",
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged"
